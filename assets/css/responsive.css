@@ -1,10 +1,10 @@
 /*  PC */
-@media (min-width: 1024px) {
-    
+@media (min-width: 64em) {
+   
 }
 
 /* Tablet & Mobile */
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
     .place .place-btn {
         padding: 14px 10px;
     }
@@ -25,7 +25,7 @@
 }
 
 /*  Tablet */
-@media (min-width: 740px) and (max-width: 1023px) {
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
     #footer .social-networks a {
         font-size: 48px;
         margin: 0 8px;
@@ -34,11 +34,10 @@
         font-size: 24px;
         margin-top: 30px;
     }
-
 }
 
 /*  Mobile */
-@media (max-width: 739px) {
+@media (max-width: 46.1875em) {
     
     #header {
         overflow: hidden;
