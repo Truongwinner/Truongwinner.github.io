@@ -35,12 +35,10 @@
         margin-top: 30px;
     }
 
-
-
 }
 
 /*  Mobile */
-@media (max-width: 740px) {
+@media (max-width: 739px) {
     
     #header {
         overflow: hidden;
