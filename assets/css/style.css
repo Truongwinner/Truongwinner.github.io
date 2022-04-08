@@ -142,7 +142,7 @@ html {
     max-width: 100%;
     padding-top: 50%; 
     /* thuộc tính này để điều chỉnh cho chiều rộng luôn bằng 50% chiều dài */
-    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
     position: relative;
 }
 
@@ -163,6 +163,7 @@ html {
 #slider .text-description {
     font-size: 15px;
     margin-top: 25px;
+    text-shadow: 0 0 1px #000;
 }
 
 
